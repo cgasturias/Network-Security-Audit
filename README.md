@@ -1,5 +1,5 @@
 - # 🌐 Auditoría de Red y Análisis de Tráfico (Reconocimiento Activo/Pasivo)
-- 
+  
 ## 💻 Entorno de Pruebas (Lab Environment)
 Para garantizar la seguridad y el aislamiento, las auditorías se realizan en un entorno controlado:
 - **Hardware:** HP 630 dedicado exclusivamente a testing.
