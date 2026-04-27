@@ -1,3 +1,5 @@
+- # 🌐 Auditoría de Red y Análisis de Tráfico (Reconocimiento Activo/Pasivo)
+- 
 ## 💻 Entorno de Pruebas (Lab Environment)
 Para garantizar la seguridad y el aislamiento, las auditorías se realizan en un entorno controlado:
 - **Hardware:** HP 630 dedicado exclusivamente a testing.
@@ -5,7 +7,6 @@ Para garantizar la seguridad y el aislamiento, las auditorías se realizan en un
 - **Sistemas:** - **Ubuntu Linux:** Utilizado para herramientas de auditoría (Nmap, Wireshark).
   - **Windows 11:** Utilizado para análisis de comportamiento y comparativa de red.
  
-  - # 🌐 Auditoría de Red y Análisis de Tráfico (Reconocimiento Activo/Pasivo)
 
 ## 📝 Descripción Detallada
 Este proyecto documenta un ejercicio de reconocimiento y análisis de seguridad sobre un entorno web real (Gemma Estilistas). El objetivo fue identificar la infraestructura del servidor, los servicios expuestos y validar el uso de herramientas de anonimización durante procesos de auditoría técnica.
